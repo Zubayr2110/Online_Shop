@@ -1,0 +1,52 @@
+.usercontent {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 380px;
+    height: 450px;
+    border-radius: 12px;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px goldenrod;
+    background-color: rgb(187, 246, 255);
+}
+.userh1 {
+    text-align: center;
+}
+.userform {
+    display: grid;
+    grid-template-columns: auto;
+    width: 100%;
+}
+label {
+    margin-top: 40px;
+}
+#producttitle {
+    margin-top: 20px;
+    padding-left: 12px;
+    height: 40px;
+    border: 2px solid rgb(0, 255, 0);
+    box-shadow: 0px 0px 5px greenyellow;
+    outline: none; 
+    border-radius: 12px;
+    font-size: 20px;
+}
+#productprice    {
+    margin-top: 20px;
+    padding-left: 12px;
+    height: 40px;
+    border: 2px solid rgb(0, 255, 0);
+    box-shadow: 0px 0px 5px greenyellow;
+    outline: none; 
+    border-radius: 12px;
+    font-size: 20px;
+}
+
+.addproductbtn {
+    margin: 0 auto;
+    margin-top: 70px;
+    width: 130px;
+    height: 50px;
+    border: 1px solid rgb(0, 255, 0);
+    border-radius: 12px;
+    background-color: greenyellow;
+    box-shadow: 0px 0px 10px gold;
+}
