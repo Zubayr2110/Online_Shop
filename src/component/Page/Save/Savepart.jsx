@@ -1,7 +1,5 @@
-import './Save.css'
+import "./Save.css";
 
 export default function Savepart() {
-  return (
-    <div>Savepart</div>
-  )
+  return <div>Savepart</div>;
 }

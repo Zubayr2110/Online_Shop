@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import "./Error.css";
 
-
 export default function Error() {
   return (
     <section class="page_404">
@@ -18,7 +17,7 @@ export default function Error() {
 
                 <p>the page you are looking for not avaible!</p>
 
-                <Link to='/main' class="link_404">
+                <Link to="/main" class="link_404">
                   Go to Home
                 </Link>
               </div>

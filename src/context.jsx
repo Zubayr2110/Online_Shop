@@ -1,17 +1,17 @@
-// // const { useContext } = require("react");
-// // const { createContext } = require("react");
+// import { createContext, useContext } from "react";
 
-// // const AppContext = createContext()
+
+// const AppContext = createContext()
 
 
 // const AppProvider = (children) => {
 
-    // const handleSubmit = async (e) => {
-    //     e.preventDefault();
-    //     const newItem = { user: name}
-    //     setUser(newItem)
-    //     navigate('/main')
-    //   };
+//     const handleSubmit = async (e) => {
+//         e.preventDefault();
+//         const newItem = { user: name}
+//         setUser(newItem)
+//         navigate('/main')
+//       };
 
 
 //     return (

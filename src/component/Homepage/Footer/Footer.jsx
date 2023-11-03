@@ -1,12 +1,12 @@
-import "./Footer.css"
-import logo from '../../../assets/logo.png'
-import social from '../../../assets/Social.png'
-import zasovskiy from '../../../assets/logo-zasovskiy-small-black.png'
+import "./Footer.css";
+import logo from "../../../assets/logo.png";
+import social from "../../../assets/Social.png";
+import zasovskiy from "../../../assets/logo-zasovskiy-small-black.png";
 
 export default function Footer() {
   return (
     <footer className="footer">
-      <img  src={logo}  />
+      <img src={logo} />
       <ul className="footer__list">
         <li>О компании</li>
         <li>Контакты</li>
@@ -26,5 +26,5 @@ export default function Footer() {
         </div>
       </div>
     </footer>
-  )
+  );
 }
